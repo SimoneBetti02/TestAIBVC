@@ -1,2 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<parameters />
+<parameters>
+  <parameter name="testserveraibvc-Web.config Connection String" description="testserveraibvc Stringa di connessione utilizzata in web.config per l'accesso al database da parte dell'applicazione." defaultValue="[PlaceHolder for connection: ]" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Alex\\Desktop\\AIBVC\\testAIBVC\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='testserveraibvc']/@connectionString" />
+  </parameter>
+</parameters>
