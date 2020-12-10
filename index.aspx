@@ -20,6 +20,10 @@
             <input id="lblNome" type="text" placeholder="Inserisci nome" runat="server" />
             <input id="lblCognome" type="text" placeholder="Inserisci cognome" runat="server" />
             <asp:Button OnClick="BtnAdd_Click" Text="Inserisci" runat="server" />
+            <br />
+            <hr />
+            <br />
+            <h3>Test GitHub</h3>
         </div>
     </form>
 </body>
