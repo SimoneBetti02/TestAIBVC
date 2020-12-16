@@ -23,7 +23,7 @@
             <br />
             <hr />
             <br />
-            <h3>Test GitHub</h3>
+            <h3>Test GitHub Betti</h3>
         </div>
     </form>
 </body>
